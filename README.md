@@ -1,4 +1,4 @@
 cholesky
 ========
 
-JS Cholesky Decomp Implementation
+C Cholesky Decomp Implementation
